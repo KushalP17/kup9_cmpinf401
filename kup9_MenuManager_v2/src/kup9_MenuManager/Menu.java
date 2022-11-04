@@ -18,6 +18,11 @@ public class Menu {
 	private Dessert dessert;
 
 	//basic menu constructor
+	/**
+	 * 
+	 * @param n
+	 * constructor
+	 */
 	Menu(String n){
 		this.name = n;
 		this.entree = null;
@@ -27,6 +32,13 @@ public class Menu {
 	}
 
 	//menu with entree and side
+	/**
+	 * 
+	 * @param n
+	 * @param e
+	 * @param s
+	 * constructor with entree, side, name parameters
+	 */
 	Menu(String n, Entree e, Side s){
 		this.entree = e;
 		this.name = n;
@@ -36,6 +48,15 @@ public class Menu {
 	}
 
 	//menu with full course meal
+	/**
+	 * 
+	 * @param n
+	 * @param e
+	 * @param s
+	 * @param sa
+	 * @param d
+	 * constructor with all dish params and name
+	 */
 	Menu(String n, Entree e, Side s, Salad sa, Dessert d){
 		this.entree = e;
 		this.name = n;
@@ -46,6 +67,10 @@ public class Menu {
 
 	//total calories adder
 	//if no menu item, then no calories counted
+	/**
+	 * 
+	 * @returns total amount of calories
+	 */
 	public int totalCalories() {
 		int calories = 0;
 
@@ -78,6 +103,10 @@ public class Menu {
 
 	//concatenate all item descriptions
 	//no menu item, "N/A" appended
+	/**
+	 * 
+	 * @return string of all descriptors for a Menu
+	 */
 	public String description() {
 		String des;
 

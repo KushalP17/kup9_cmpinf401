@@ -1,0 +1,4 @@
+Turkey@@Turkey@@150
+Chicken@@Chicken@@180
+Hamburger@@The usual@@768
+Fish@@Fishy@@243
