@@ -1,0 +1,52 @@
+Menu Southern Yum:
+	Salad: Potato Salad
+		Potato Salad	Calories: 195	$4.0
+	Side: Grilled Potatoes
+		Boiled potatoes grilled in oven with a touch of butter	Calories: 270	$5.0
+	Entree: Deep fried chicken breasts
+		Deep fried chicken breasts using our traditional powder receipt	Calories: 560	$12.0
+	Dessert: Chocolate Cake
+		Low calorie chocolate cake	Calories: 175	$7.0
+Total Calories: 1200
+Total Price: $28.0
+
+
+Menu randMenu:
+	Salad: Quinoa
+		Quinoa lightly salted	Calories: 120	$4.0
+	Side: Rice
+		Plain rice	Calories: 160	$3.5
+	Entree: Griller Steak
+		Carefully selected prime quality steak griller to the point of your preference	Calories: 740	$15.0
+	Dessert: Chocolate Cake
+		Low calorie chocolate cake	Calories: 175	$7.0
+Total Calories: 1195
+Total Price: $29.5
+
+
+Menu skinty:
+	Salad: Mixed Vegetables
+		Includes small tomatoes, lettuce, cucumber, spinach and arugula	Calories: 90	$7.0
+	Side: Quinoa
+		Quinoa	Calories: 140	$4.7
+	Entree: Curry Chicken
+		Curry marinated chicken, cooked slowly in wood fire oven	Calories: 430	$11.5
+	Dessert: Chocolate Cake
+		Low calorie chocolate cake	Calories: 175	$7.0
+Total Calories: 835
+Total Price: $30.2
+
+
+Menu woah:
+	Salad: Soy bean sprout with corn
+		Soy bean sprout with corn and olives	Calories: 210	$5.0
+	Side: Grilled Potatoes
+		Boiled potatoes grilled in oven with a touch of butter	Calories: 270	$5.0
+	Entree: Sirloin Steak
+		A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked	Calories: 820	$22.5
+	Dessert: Ice Cream
+		Choose among vanilla, mango, pineapple, chocolate and orange ice cream	Calories: 250	$3.2
+Total Calories: 1550
+Total Price: $35.7
+
+

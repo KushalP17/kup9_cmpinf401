@@ -1,0 +1,13 @@
+Menu jjkljkj:
+	Salad: Mixed Vegetables
+		Includes small tomatoes, lettuce, cucumber, spinach and arugula	Calories: 90	$7.0
+	Side: Rice
+		Plain rice	Calories: 160	$3.5
+	Entree: Sirloin Steak
+		A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked	Calories: 820	$22.5
+	Dessert: Ice Cream
+		Choose among vanilla, mango, pineapple, chocolate and orange ice cream	Calories: 250	$3.2
+Total Calories: 1320
+Total Price: $36.2
+
+
